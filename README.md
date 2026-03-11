@@ -1,4 +1,4 @@
-# Virdla: Insulator Effect Analysis Tool
+# Virdla: Promoter and Enhancer Analysis Tool
 
 ## Method
 VirReporter is an AlphaGenome-powered in silico tool that predicts dual-luciferase assay activity ratios from DNA sequences input, enabling high-throughput virtual screening of regulatory elements.
